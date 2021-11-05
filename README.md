@@ -1,4 +1,4 @@
-#Enunciado
+# Enunciado
 
 Neste exercício você irá utilizar o fetch que vimos na aula para fazer uma requisição a uma API.
 
